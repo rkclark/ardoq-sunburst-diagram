@@ -1,7 +1,7 @@
 d3 Sunburst Visualisation Plugin for Ardoq
 ======
 
-Generates an interactive d3 Sunburst visualisation displaying any hierarchy of components/workspaces in Ardoq.
+Generates an interactive d3 Sunburst visualisation displaying any hierarchy of components/workspaces in [Ardoq](https://ardoq.com/).
 
 ![Example sunburst visualisation](https://github.com/rkclark/ardoq-sunburst-diagram/blob/master/sunburst_example.PNG)
 
@@ -26,3 +26,7 @@ Set your context to a specific component to have the visualisation render only y
 - Give the plugin an ID and name. The name will be shown in the visualisation list.
 - Copy and paste the code from sunburst.js into the code editor window, over-writing any existing code that may be there.
 - Click to Save and Run the plugin. It will now be a selectable visualisation in your model!
+
+*I hope you enjoy using the visualisation! Changes to the core Ardoq application may affect the plugin in the future, feel free to open any issue on this repo if you have any problems :)*
+
+*Plugin working correctly as at Ardoq version Version: 3.4.60 / 1.39.16.*
