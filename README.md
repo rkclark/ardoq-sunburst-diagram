@@ -27,6 +27,8 @@ Set your context to a specific component to have the visualisation render only y
 - Copy and paste the code from sunburst.js into the code editor window, over-writing any existing code that may be there.
 - Click to Save and Run the plugin. It will now be a selectable visualisation in your model!
 
+---
+
 *I hope you enjoy using the visualisation! Changes to the core Ardoq application may affect the plugin in the future, feel free to open any issue on this repo if you have any problems :)*
 
 *Plugin working correctly as at Ardoq version Version: 3.4.60 / 1.39.16.*
