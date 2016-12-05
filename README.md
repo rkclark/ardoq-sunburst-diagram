@@ -29,6 +29,6 @@ Set your context to a specific component to have the visualisation render only y
 
 ---
 
-*I hope you enjoy using the visualisation! Changes to the core Ardoq application may affect the plugin in the future, feel free to open any issue on this repo if you have any problems :)*
+*I hope you enjoy using the visualisation! Changes to the core Ardoq application may affect the plugin in the future, feel free to open an issue on this repo if you have any problems :)*
 
 *Plugin working correctly as at Ardoq version Version: 3.4.60 / 1.39.16.*
