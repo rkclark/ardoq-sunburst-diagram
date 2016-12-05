@@ -14,7 +14,7 @@
 		this.addCSS(".level4.sunburst-opac", "opacity:0.65;");
 		this.addCSS(".level5.sunburst-opac", "opacity:0.525;");
 		this.addCSS(".level6.sunburst-opac", "opacity:0.5;");
-		this.addCSS(".pathHover", "opacity:0.3; -webkit-transition: opacity .3s linear; transition: opacity .3s linear;");
+		this.addCSS(".sunburst-opac:hover", "opacity:0.3; -webkit-transition: opacity .3s linear; transition: opacity .3s linear;");
 
 		//Style tooltips
 		this.addCSS(".sunburst-tooltip", "pointer-events:none;");
@@ -237,7 +237,7 @@
 					};
 				});
 		}
-    
+
 		d3.select(self.frameElement).style("height", height + "px");
 	}
 }
